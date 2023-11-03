@@ -1,0 +1,27 @@
+{
+  "name": "homework__one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "server": "live-server",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "13.5.6"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "13.5.6"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
